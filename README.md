@@ -14,3 +14,10 @@ This project implements an IoT-based system for monitoring daily step count usin
 
 ## Description
 The project demonstrates data collection, processing, storage, and visualization following the IoT data lifecycle.
+
+## Notebook
+The full implementation and analysis are provided in the Google Colab notebook:
+
+- [IoT Step Count Analysis Notebook](industry_projijj.ipynb)
+[industry projjjj.ipynb](https://github.com/user-attachments/files/24416424/industry.projjjj.ipynb)
+
